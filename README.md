@@ -23,7 +23,7 @@ Este repositório também inclui imagens, consultas SQL, códigos comentados e g
 <img width="619" height="837" alt="Captura de tela 2025-12-04 132355" src="https://github.com/user-attachments/assets/22486787-d9e9-45b2-9360-172b9657cdfb" />
 
 SQL myadmin:
-users: <img width="1134" height="402" alt="Captura de tela 2025-12-04 132833" src="https://github.com/user-attachments/assets/bd85107c-b6bc-489f-aff9-ca417eb47290" />
+users: <img width="1134" height="402" alt="Captura de tela 2025-12-04 132833" src="https://github.com/user-attachments/assets/5eab0053-8fff-4d22-8abc-e66da1223b80" />
 
 alunos cadastrasdos: <img width="1585" height="788" alt="Captura de tela 2025-12-04 132944" src="https://github.com/user-attachments/assets/a56decf1-e396-4b61-a119-b4ef66b6770d" />
 
